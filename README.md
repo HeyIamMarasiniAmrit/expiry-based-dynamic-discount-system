@@ -83,3 +83,6 @@ discount = discount_by_expiry(days_left)
 price = discounted_price(base_price, discount)
 
 print(f"Discounted Price: ${price}")
+
+
+![Image](https://github.com/user-attachments/assets/dab5563e-9ef3-434f-ac74-4445f0becf5f)
